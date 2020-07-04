@@ -1,0 +1,17 @@
+{
+"companyName": "Wylarel",
+"productName": "BloomMaster",
+"productVersion": "0.1",
+"dataUrl": "BloomMaster Build.data.unityweb",
+"wasmCodeUrl": "BloomMaster Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "BloomMaster Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BloomMaster Build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
